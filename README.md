@@ -2,7 +2,7 @@
 Expense Tracker using React
 
 ## Motivation
-This project exists to demonstrate basic React development competencies. This project utilizes the Context API to manage state within the app without running into issues like prop-drilling. The interface is easy to use and understand. 
+This project exists to demonstrate React development competencies, and showcase my ability to create and demo a React application. This project utilizes the Context API to manage state within the app without running into issues like prop-drilling. The interface is easy to use and understand. 
 
 
 ## Code style
