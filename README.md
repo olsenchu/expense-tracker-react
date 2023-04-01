@@ -19,7 +19,7 @@ Screenshot demonstrating how the expense tracker works with entries.
 - [React](https://react.dev/)
 
 ## Installation
-Download the files, and run in any browser. This project is entirely JS-based and runs on a browser server. The project is also hosted live on my portfolio website: expense-tracker.olsenchu.com
+Download the files, and run in any browser. This project is entirely JS-based and runs on a browser server. The project is also hosted live on my portfolio website: [Expense Tracker](https://expense-tracker.olsenchu.com)
 
 
 ## How to use?
