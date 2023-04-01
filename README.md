@@ -10,6 +10,7 @@ Written in JSX using standard naming conventions for React.
  
 ## Screenshots
 Screenshot demonstrating how the expense tracker works with entries. 
+
 [Expense-Tracker-Screenshot.png](https://postimg.cc/Xr0h73h8)
 
 ## Tech/framework used
