@@ -12,17 +12,10 @@ Written in JSX using standard naming conventions for React.
 Screenshot demonstrating how the expense tracker works with entries. 
 
 
-
 ## Tech/framework used
 
 <b>Built with</b>
 - [React](https://react.dev/)
-
-## Features
-What makes your project stand out?
-
-## Code Example
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
 
 ## Installation
 Download the files, and run in any browser. This project is entirely JS-based and runs on a browser server. The project is also hosted live on my portfolio website: olsenchu.com
